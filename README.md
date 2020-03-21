@@ -36,7 +36,8 @@ Instead of basic sorting we considered some more attributes of data for our fina
 #### Finally we ended up
 
 Global rank
-
+<img src="https://github.com/nizam19/Hashcode-2020/blob/master/ranks/global.PNG">
 
 Country rank (India)
+<img src="https://github.com/nizam19/Hashcode-2020/blob/master/ranks/india.PNG">
 
