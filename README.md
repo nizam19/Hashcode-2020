@@ -9,7 +9,7 @@ Our [problem statement](https://github.com/nizam19/Hashcode-2020/blob/master/pro
 
 We solved the problem in C++ here's our [solution](https://github.com/nizam19/Hashcode-2020/blob/master/solutions/cpp/main.cpp)
 
-And the [input files](https://github.com/nizam19/Hashcode-2020/tree/master/input) and our final generated [output files](https://github.com/nizam19/Hashcode-2020/tree/master/output)
+Here are the [input files](https://github.com/nizam19/Hashcode-2020/tree/master/input) and our final submission's [output files](https://github.com/nizam19/Hashcode-2020/tree/master/output)
 
 ## Coding
 
@@ -27,7 +27,7 @@ For this submission did basically the same thing but were traversing the input b
 
 Tried to think of a logic and basically sorted the input and almost doubled our score this was the most jolly momet of the contest
 
-<img src = "https://github.com/nizam19/Hashcode-2020/blob/master/scores/score 4.PNG">
+<img src = "https://github.com/nizam19/Hashcode-2020/blob/master/scores/score4.PNG">
 
 Instead of basic sorting we considered some more attributes of data for our final solution this also gave us about some score rise
 
@@ -35,9 +35,13 @@ Instead of basic sorting we considered some more attributes of data for our fina
 
 #### Finally we ended up
 
-Global rank
+Global rank **3753 out of 10724**
 <img src="https://github.com/nizam19/Hashcode-2020/blob/master/ranks/global.PNG">
 
-Country rank (India)
+Country rank (India) **626 out of 3116**
 <img src="https://github.com/nizam19/Hashcode-2020/blob/master/ranks/india.PNG">
+
+In my opinion the competition went very well for a team which had a perfect 0 score at Hashcode 2019
+
+This was very fun, learned a lot about real world software engineering and problem statements and the importance of object oriented design and design principles :joy:
 
