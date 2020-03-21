@@ -9,7 +9,7 @@ Our [problem statement](https://github.com/nizam19/Hashcode-2020/blob/master/pro
 
 We solved the problem in C++ here's our [solution](https://github.com/nizam19/Hashcode-2020/blob/master/solutions/cpp/main.cpp)
 
-And the [input files]https://github.com/nizam19/Hashcode-2020/tree/master/input() and our final generated [output files](https://github.com/nizam19/Hashcode-2020/tree/master/output)
+And the [input files](https://github.com/nizam19/Hashcode-2020/tree/master/input) and our final generated [output files](https://github.com/nizam19/Hashcode-2020/tree/master/output)
 
 ## Coding
 
