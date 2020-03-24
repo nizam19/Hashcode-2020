@@ -25,7 +25,7 @@ For this submission did basically the same thing but were traversing the input b
 
 <img src = "https://github.com/nizam19/Hashcode-2020/blob/master/scores/score3.PNG">
 
-Tried to think of a logic and basically sorted the input and almost doubled our score this was the most jolly momet of the contest
+Tried to think of a logic and basically sorted the input and almost doubled our score this was the most jolly moment of the contest
 
 <img src = "https://github.com/nizam19/Hashcode-2020/blob/master/scores/score4.PNG">
 
