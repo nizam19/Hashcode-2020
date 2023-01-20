@@ -3,7 +3,7 @@ Our team's take on the Google HashCode 2020 Qualification round
 
 Know more about [Hashcode](g.co/hashcode)
 
-My team @[pythxnbyte](https://github.com/PythxnBite) @[sriharsha2000](https://github.com/sriharsha2000) @[mangipudiprashanth7](https://github.com/mangipudiprashanth7)
+My team @[pythxnbyte](https://github.com/PythxnBite) @[srihk](https://github.com/srihk) @[mangipudiprashanth7](https://github.com/mangipudiprashanth7)
 
 Our [problem statement](https://github.com/nizam19/Hashcode-2020/blob/master/problem_statement/hashcode_2020_online_qualification_round.pdf)
 
